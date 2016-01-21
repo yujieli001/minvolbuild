@@ -1,4 +1,4 @@
-hellobuild
+minvolbuild
 ==========
 
 Create a Docker container that creates a Docker container
